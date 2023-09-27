@@ -3,6 +3,7 @@ from tinydb import TinyDB, Query
 
 db = TinyDB('database.json')
 
+'''
 db.insert(
     {
         "realm": "Mirrodim",
@@ -16,3 +17,4 @@ db.insert(
     }
 
 )
+'''
