@@ -1,0 +1,34 @@
+{
+    "_default": {
+        "1": {
+            "realm": "Tolariano",
+            "type": "onix",
+            "experience": 200,
+            "level": 2,
+            "gold": 1000,
+            "food": 10,
+            "building": 3,
+            "unit": 101
+        },
+        "2": {
+            "realm": "Dominaria",
+            "type": "Amestist",
+            "experience": "1200",
+            "level": "20",
+            "gold": "10",
+            "food": "1000",
+            "building": "6",
+            "unit": "5"
+        },
+        "3": {
+            "realm": "Mirrodim",
+            "type": "Steel",
+            "experience": "20000",
+            "level": "35",
+            "gold": "10000",
+            "food": "0",
+            "building": "3",
+            "unit": "101"
+        }
+    }
+}
